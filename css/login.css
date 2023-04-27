@@ -46,3 +46,11 @@
     background-color: #1E1E1E;
     border-color: #727272;
 }
+
+.login-icon {
+
+    border-radius: 50%;
+    background-color: #1E1E1E;
+    border: 1px solid #727272;
+    margin: 20px;
+}
