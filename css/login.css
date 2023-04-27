@@ -1,0 +1,48 @@
+.card {
+    background-color: transparent !important;
+    border-width: 0 !important;
+}
+
+.forgot-password {
+    color: #727272;
+    text-decoration: none;
+    font-size: 12px;
+    float: right;
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+}
+
+.primayBtn {
+    background-color: #FFD579;
+    color: #111111;
+    border-color: #727272;
+}
+
+.primayBtn:hover {
+    background-color: #ffd988;
+    color: #111111;
+    border-color: #727272;
+}
+
+.secondaryBtn {
+    background-color: #1E1E1E;
+    color: #FFD579;
+    border-color: #727272;
+}
+
+.secondaryBtn:hover {
+    background-color: #2d2d2d;
+    color: #FFD579;
+    border-color: #727272;
+}
+
+.textField {
+    background-color: #1E1E1E;
+    border-color: #727272;
+}
+
+.textField:focus {
+    background-color: #1E1E1E;
+    border-color: #727272;
+}
