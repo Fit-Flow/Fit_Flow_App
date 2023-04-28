@@ -13,36 +13,36 @@
     font-size: 0.8rem;
 }
 
-.primayBtn {
+.primay-btn {
     background-color: #FFD579;
     color: #111111;
     border-color: #727272;
 }
 
-.primayBtn:hover {
+.primay-btn:hover {
     background-color: #ffd988;
     color: #111111;
     border-color: #727272;
 }
 
-.secondaryBtn {
+.secondary-btn {
     background-color: #1E1E1E;
     color: #FFD579;
     border-color: #727272;
 }
 
-.secondaryBtn:hover {
+.secondary-btn:hover {
     background-color: #2d2d2d;
     color: #FFD579;
     border-color: #727272;
 }
 
-.textField {
+.text-field {
     background-color: #1E1E1E;
     border-color: #727272;
 }
 
-.textField:focus {
+.text-field:focus {
     background-color: #1E1E1E;
     border-color: #727272;
 }
