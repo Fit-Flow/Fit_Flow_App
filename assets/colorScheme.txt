@@ -1,0 +1,11 @@
+Bagrundsfarve - #111111
+
+Mørkegrå - #1E1E1E
+Lysegrå - #727272
+Blå - #82B3BE
+Gul - #FFD579
+Lilla - #6F4BDB
+Grøn - #B7C285
+
+Ikon baggrund rød - #AA4141 (60% opacity (alpha))
+Ikon baggrund gul - #38392D (60% opacity (alpha))
