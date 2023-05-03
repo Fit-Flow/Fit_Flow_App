@@ -10,4 +10,4 @@ function validatePassword(){
 }
 
 floatingPassword.onchange = validatePassword;
-gentag_kodeord.onkeyup = validatePassword;
+gentag_kodeord.onkeyup = validatePassword;  
